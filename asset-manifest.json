@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guvitask/static/css/main.0db45443.css",
+    "main.js": "/guvitask/static/js/main.8ac26a36.js",
+    "index.html": "/guvitask/index.html",
+    "main.0db45443.css.map": "/guvitask/static/css/main.0db45443.css.map",
+    "main.8ac26a36.js.map": "/guvitask/static/js/main.8ac26a36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db45443.css",
+    "static/js/main.8ac26a36.js"
+  ]
+}
