@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/guvitask/static/css/main.0db45443.css",
-    "main.js": "/guvitask/static/js/main.8ac26a36.js",
+    "main.js": "/guvitask/static/js/main.8de1903c.js",
     "index.html": "/guvitask/index.html",
     "main.0db45443.css.map": "/guvitask/static/css/main.0db45443.css.map",
-    "main.8ac26a36.js.map": "/guvitask/static/js/main.8ac26a36.js.map"
+    "main.8de1903c.js.map": "/guvitask/static/js/main.8de1903c.js.map"
   },
   "entrypoints": [
     "static/css/main.0db45443.css",
-    "static/js/main.8ac26a36.js"
+    "static/js/main.8de1903c.js"
   ]
 }
